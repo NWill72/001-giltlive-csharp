@@ -102,7 +102,6 @@ namespace OhmsLaw
                 {
                         if(selection == (char)ConsoleKey.Escape)
                         {
-                            Console.WriteLine();
                             Console.WriteLine("Escape Key Pressed ... !!!");
                             Console.WriteLine("Exiting Application ... !!!");
                             Console.WriteLine("Goodbye ... !!!");
