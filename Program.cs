@@ -27,11 +27,7 @@ namespace OhmsLaw
                 MenuSelect(select);
             }
             while (select != (char)ConsoleKey.Escape); // Exit when Escape key is pressed
-
-            Console.WriteLine();
-            Console.WriteLine("Escape Key Pressed ... !!!");
-            Console.WriteLine("Exiting Application ... !!!");
-            Console.WriteLine("Goodbye ... !!!");
+         
         }
 
         static void MenuSelect(char selection)
@@ -104,7 +100,17 @@ namespace OhmsLaw
 
                 default:
                 {
-                        // Console.WriteLine("Invalid Selection! Try Again.");
+                        if(selection == (char)ConsoleKey.Escape)
+                        {
+                            Console.WriteLine();
+                            Console.WriteLine("Escape Key Pressed ... !!!");
+                            Console.WriteLine("Exiting Application ... !!!");
+                            Console.WriteLine("Goodbye ... !!!");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Invalid Selection! Try Again.");
+                        }
                         break;
                 }
             }
