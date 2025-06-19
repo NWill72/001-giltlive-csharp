@@ -1,4 +1,6 @@
 ﻿// A Basic Ohms Law Calculator in C#
+// Program By Nigel A Williams
+// Copyright (c) 2025
 
 using System;
 
