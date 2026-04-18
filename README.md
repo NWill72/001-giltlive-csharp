@@ -1,6 +1,12 @@
-DRAFT README.md
+DRAFT LICENSE.md
 
-Copyright 2025 - All Rights Reserved.
+This Directory Is For C Projects.
+
+The Individual Project Folders Contain Individual Project LICENSE.md.
+
+Authorized Personnel Only - Gamma Group Only.
+
+Copyright 2025, 2026 - All Rights Reserved.
 
 A simple ohms law calculator.
 
