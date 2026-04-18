@@ -1,8 +1,8 @@
 DRAFT README.md
 
-This Directory Is For the OhmsLawC# Project.
-
 OhmsLawC# Is A simple ohms law calculator programmed using C#.
+
+The calculator presents a menu of options to calculate Voltage, Current, or Resistance.
 
 Voltage (V): Current (I): Resistance (R):
 
