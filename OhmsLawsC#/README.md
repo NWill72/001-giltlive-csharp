@@ -1,12 +1,17 @@
 DRAFT README.md
 
-A simple ohms law calculator.
+This Directory Is For the OhmsLawC# Project.
 
-Voltage (V):
-Current (I):
-Resistance (R):
+OhmsLawC# Is A simple ohms law calculator programmed using C#.
 
-Ohms Law: 
-- V = I x R
-- I = V / R
-- R = V / I
+Voltage (V): Current (I): Resistance (R):
+
+Ohms Law:
+
+V = I x R
+I = V / R
+R = V / I
+
+Authorized Personnel Only - Gamma Group Only.
+
+Copyright 2025, 2026 - All Rights Reserved.
