@@ -1,8 +1,8 @@
-DRAFT LICENSE.md
+DRAFT README.md
 
 This Directory Is For C Projects.
 
-The Individual Project Folders Contain Individual Project LICENSE.md.
+The Individual Project Folders Contain Individual Project README.md.
 
 Authorized Personnel Only - Gamma Group Only.
 
