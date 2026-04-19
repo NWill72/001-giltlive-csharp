@@ -1,4 +1,4 @@
-DRAFT README.md
+DRAFT LICENSE.md
 
 OhmsLawC# Is A simple ohms law calculator programmed using C#.
 
